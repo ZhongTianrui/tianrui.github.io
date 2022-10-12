@@ -1,0 +1,15 @@
+HTTrack3.46+htsswf+htsjava launched on Wed, 12 Oct 2022 16:40:13 at lcoi.tk +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2010], %s -->" -%l "cs, en, *" lcoi.tk -O1 D:\lcoi.tk +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:41:38	Error: 	"Not Found" (404) at link lcoi.tk/Users (from lcoi.tk/)
+16:41:38	Error: 	"Not Found" (404) at link cdn.lcoi.tk/script/cookie.js (from lcoi.tk/join-us/)
+16:41:38	Error: 	"Not Found" (404) at link cdn.lcoi.tk/user/main.css (from lcoi.tk/thanks/)
+16:41:38	Error: 	"Not Found" (404) at link cdn.lcoi.tk/user/main2.css (from lcoi.tk/thanks/)
+
+HTTrack Website Copier/3.46 mirror complete in 1 minutes 25 seconds : 161 links scanned, 156 files written (2145841 bytes overall) [1330002 bytes received at 15647 bytes/sec], 1164095 bytes transfered using HTTP compression in 107 files, ratio 18%, 1.2 requests per connection
+(4 errors, 0 warnings, 0 messages)
